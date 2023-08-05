@@ -38,4 +38,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at
+Check out the live demo of the application at  https://mamatapradhan1234.github.io/IMDb-Clone/
